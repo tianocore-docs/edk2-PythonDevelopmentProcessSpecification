@@ -1,0 +1,10 @@
+{
+  "variables" : {
+    "draft"   : "yes",
+    "title"   : "EDK II Python Development Process Specification",
+    "version" : "Revision 0.10"
+  },
+
+  "plugins": ["puml"],
+  "pluginsConfig": {}
+}
