@@ -30,7 +30,7 @@
 
 -->
 
-# **4 Environment setup and example:** {#environment-setup-and-example}
+# 4 Environment setup and example
 
 This section shows writing python code and running the tools
 

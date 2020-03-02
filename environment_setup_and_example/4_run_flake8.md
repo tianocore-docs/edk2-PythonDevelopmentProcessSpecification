@@ -30,15 +30,9 @@
 
 -->
 
-
-
-## 4.4 Run flake8: {#4-run-flake8}
-
-
+## 4.4 Run flake8
 
 Run `flake8`. The output of `flake8` on `sample.py` shown below
-
-
 
 ```shell
 C:\kpurma\PythonDevelopmentProcess>python -m flake8 sample.py
@@ -54,11 +48,10 @@ sample.py:41:13: E117 over-indented
 sample.py:43:21: E117 over-indented
 sample.py:44:13: E722 do not use bare 'except'
 sample.py:45:21: E117 over-indented
-sample.py:48:1: E305 expected 2 blank lines after class or function definition, found 1
-
+sample.py:48:1: E305 expected 2 blank lines after class or
+                function definition, found 1
 
 ```
-
 
 Fix `flake8` issues and run falke8 again to check there is no errors reported.
 
@@ -92,7 +85,7 @@ class AddTen:
 
 ---
 
-Modified code with no errors looks like below and `sample_fixed.py` attached in the appendix.
+Run flake on fixed code.
 
 ```shell
 C:\kpurma\PythonDevelopmentProcess>python -m flake8 sample_fixed.py

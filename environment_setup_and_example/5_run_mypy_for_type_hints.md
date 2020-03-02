@@ -1,5 +1,6 @@
 <!--- @file
-  run mypy for type hints.md for Python Development Process and Coding Specification
+  run mypy for type hints.md for
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -29,7 +30,7 @@
 
 -->
 
-## 4.5 Run `mypy` for type hints: {#5-run-mypy-for-type-hints}
+## 4.5 Run `mypy` for type hints
 
 Run `mypy` on the source file to check to find type hints.
 
@@ -38,7 +39,8 @@ Run `mypy` on the source file to check to find type hints.
 C:\kpurma\PythonDevelopmentProcess>mypy sample.py --strict
 sample.py:35: error: Function is missing a type annotation
 sample.py:40: error: Function is missing a return type annotation
-sample.py:43: error: "AddTen" has no attribute "newvaraible"; maybe "new_varaible"?
+sample.py:43: error: "AddTen" has no attribute "newvaraible";
+                     maybe "new_varaible"?
 sample.py:48: error: Call to untyped function "AddTen" in typed context
 Found 4 errors in 1 file (checked 1 source file)
 
@@ -50,7 +52,6 @@ Found 4 errors in 1 file (checked 1 source file)
 ```shell
 C:\kpurma\PythonDevelopmentProcess>mypy sample_fixed.py --strict
 Success: no issues found in 1 source file
-
 
 ```
 

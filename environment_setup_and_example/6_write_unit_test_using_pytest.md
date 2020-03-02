@@ -1,6 +1,7 @@
 
 <!--- @file
-  6 write unit test using pytest.md for Python Development Process and Coding Specification
+  6 write unit test using pytest.md for
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -30,12 +31,12 @@
 
 -->
 
-## 4.6 Write a unit test using pytest **:** {#6-write-unit-test-using-pytest}
+## 4.6 Write a unit test using pytest
 
-Use `pytest` library to write a unit test. Unit test for sample program is shown below and `test_sample.py` is attached in the appendix.
+Use `pytest` library to write a unit test.
+Unit test for sample program is shown below for sample code.
 
 ---
-
 
 ```python
 
@@ -51,7 +52,6 @@ def test_answer():
 
 ---
 Run the unit test and make sure all tests pass.
-
 
 
 ```shell

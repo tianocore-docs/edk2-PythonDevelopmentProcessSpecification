@@ -1,5 +1,6 @@
 <!--- @file
-  environement_setup_and_example.md for Python Development Process and Coding Specification
+  environement_setup_and_example.md for 
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -30,7 +31,7 @@
 -->
 
 
-**4.1 Install and setup environment:**{#1-install-and-setup-environment}
+## 4.1 Install and setup environment
 
 *  **Install flake8:**
 

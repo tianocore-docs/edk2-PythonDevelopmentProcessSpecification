@@ -1,5 +1,6 @@
 <!--- @file
-  2 create_a projtect configuration file for flake8.md for Python Development Process and Coding Specification
+  2 create_a projtect configuration file for flake8.md for
+  EDK IIPython Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -28,15 +29,13 @@
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->
-## 4.2 Create a project configuration file for flake8: {#2-create-project-configuration-file-for-flake8}
+## 4.2 Create a project configuration file for flake8
 
-Create a file at root level of the  project  directory  and name it as "**.flake8**".
+Create a file at root level of the  project  directory and 
+name it as "**.flake8**".
 
-Flake8 configuration options needs to be in the flake8 section. The following options used for EDK II flake8 configuration. 
-
-
-
-
+Flake8 configuration options needs to be in the flake8 section.
+The following options used for EDK II flake8 configuration. 
 
 ```
 [flake8]

@@ -1,6 +1,6 @@
 <!--- @file
   README.md for Environment setup and example
-  for Python Development Process and Coding Specification
+  for EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -30,4 +30,4 @@
 
 -->
 
-# **4 Environment setup and example:** {#environment-setup-and-example}
+# 4 Environment setup and example

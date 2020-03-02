@@ -1,5 +1,5 @@
 <!--- @file
-  README.md for Python Development Process and Coding Specification
+  README.md for EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -28,21 +28,22 @@
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->
+
 <img src="media/TianocoreTitlePageLogo.jpg" width="300" />
 
-
-### EDK II Python Development Process and Coding Standards Specification {#python-development-process-and-coding-standards-specification}
-<!---
 ### {{ book.title }}
--->
-
 
 {% if book.draft %}
 ** DRAFT FOR REVIEW **
+{% else %}
+** {{ book.version }} **
 {% endif %}
+
 ** {{ gitbook.time|date('MM/DD/YYYY hh:mm:ss') }} **
 
-** {{ book.version }} **
+{% if book.udkrelease %}
+** {{ book.udkrelease }} **
+{% endif %}
 
 
 ### Acknowledgements

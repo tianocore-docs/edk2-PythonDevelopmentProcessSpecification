@@ -1,5 +1,6 @@
 <!--- @file
-  development_steps_and_flowchard.md for Python Development Process and Coding Specification
+  development_steps_and_flowchart.md for 
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -29,7 +30,7 @@
 
 -->
 
-# **3 Development steps and flowchart:** {#development-steps-and-flowchart}
+# 3 Development steps and flowchart
 
 *   Write code which follows PEP8, PEP257 and PEP484 recommendations
 *   Run `flake8` on source code.
