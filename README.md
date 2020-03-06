@@ -80,9 +80,3 @@ Copyright (c) 2020, Intel Corporation. All rights reserved.
 | ---------- | ------------------ | ----------- |
 | 01.0 | Initial release. | Jan 2020|
 |   |    |    |
-
-
-<!--- end of README.md
--->
-
-EDK II Python development process and coding standards Specification
