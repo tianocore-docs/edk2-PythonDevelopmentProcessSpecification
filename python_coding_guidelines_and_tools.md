@@ -57,7 +57,7 @@ annotations are not available. More details on PEP484 available at
 https://www.python.org/dev/peps/pep-0484/
 
 
-###   **Falke8:** 
+###   **Flake8:** 
 `Flake8` is a Python library wrapper around `PyFlakes, pycodestyle` and
 Ned Batchelder’s `McCabe` script<br>
 

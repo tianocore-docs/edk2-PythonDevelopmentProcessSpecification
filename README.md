@@ -76,7 +76,8 @@ Copyright (c) 2020, Intel Corporation. All rights reserved.
 
 ### Revision History
 
-| Revision | Revision History | Date |
-| ---------- | ------------------ | ----------- |
-| 01.0 | Initial release. | Jan 2020|
-|   |    |    |
+| Revision   | Revision History     | Date        |
+| ---------- | ------------------   | ----------- |
+| 0.10       | Initial release.     | Jan 2017    |
+| 1.0        | [#2626](https://bugzilla.tianocore.org/show_bug.cgi?id=2626) Typo in Python development Process and coding standards draft spec  | March 2017  |
+
